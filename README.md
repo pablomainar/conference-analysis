@@ -5,4 +5,4 @@ In this repo I will try to keep a running analysis of the papers presented in so
 
 Institutions at CVPR 2018:
 
-
+(https://github.com/pablomainar/conference-analysis/blob/master/Figure_Institutions.png)
